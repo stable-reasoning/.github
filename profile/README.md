@@ -38,16 +38,8 @@ Our goals:
 - **Evaluation assets:** datasets, metrics, and harnesses tailored to reasoning stability.
 - **Community artifacts:** baselines, dashboards, and concise reports.
 
-## Current project(s)
-
-> We’re just getting started — one repo so far.
-
-- 🔹 **[`AI Material Science`](https://github.com/stable-reasoning/ai-material-science)**  
-
-<!-- Add more repos here as they appear -->
-
 ## Publications & Reports
 
 - Preprints / whitepapers will be listed here with DOIs or arXiv IDs.
-- Short technical notes live in each repo’s `/reports` folder.
+- Short technical notes live in repo’s `/reports` folder.
 
